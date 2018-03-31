@@ -1,0 +1,10 @@
+[import time]
+My name is [name]. I am [age] years old.
+My email is [email].
+
+Letter from [email] to [name]
+
+Yours,
+[name]
+
+[time.asctime()]

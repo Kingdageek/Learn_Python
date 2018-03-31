@@ -1,0 +1,2136 @@
+The results for 5 people are: 
+July 7th
+June 30th
+August 10th
+April 30th
+June 9th
+
+July 7th appears once.
+June 30th appears once.
+August 10th appears once.
+February 28th appears once.
+June 9th appears once.
+
+The CONCLUSION for this particular random birthday generation for 5 people is: 
+MUCH EXPECTED: still follows the paradox
+
+The results for 10 people are: 
+June 7th
+June 13th
+July 25th
+July 24th
+March 14th
+July 21st
+September 15th
+July 2nd
+August 30th
+July 12th
+
+June 7th appears once.
+June 13th appears once.
+July 25th appears once.
+July 24th appears once.
+March 14th appears once.
+July 21st appears once.
+September 15th appears once.
+July 2nd appears once.
+August 30th appears once.
+July 12th appears once.
+
+The CONCLUSION for this particular random birthday generation for 10 people is: 
+MUCH EXPECTED: still follows the paradox
+
+The results for 15 people are: 
+May 9th
+June 23rd
+June 18th
+May 7th
+October 8th
+September 2nd
+April 4th
+December 1st
+December 18th
+February 1st
+October 2nd
+February 28th
+May 26th
+May 26th
+July 2nd
+
+May 9th appears once.
+June 23rd appears once.
+June 18th appears once.
+May 7th appears once.
+October 8th appears once.
+September 2nd appears once.
+April 4th appears once.
+December 1st appears once.
+December 18th appears once.
+February 1st appears once.
+October 2nd appears once.
+February 28th appears once.
+May 26th appears 2 times.
+July 2nd appears once.
+
+The CONCLUSION for this particular random birthday generation for 15 people is: 
+RARE. Had a probability of occurring below half.
+
+The results for 20 people are: 
+August 9th
+July 7th
+July 5th
+May 28th
+May 8th
+January 18th
+December 1st
+September 14th
+April 9th
+December 9th
+January 19th
+March 12th
+May 5th
+December 21st
+April 5th
+July 7th
+June 18th
+July 6th
+July 1st
+February 5th
+
+August 9th appears once.
+July 7th appears 2 times.
+July 5th appears once.
+May 28th appears once.
+May 8th appears once.
+January 18th appears once.
+December 1st appears once.
+September 14th appears once.
+April 9th appears once.
+December 9th appears once.
+January 19th appears once.
+March 12th appears once.
+May 5th appears once.
+December 21st appears once.
+April 5th appears once.
+June 18th appears once.
+July 6th appears once.
+July 1st appears once.
+February 5th appears once.
+
+The CONCLUSION for this particular random birthday generation for 20 people is: 
+MUCH EXPECTED: still follows the paradox
+
+The results for 25 people are: 
+January 27th
+February 6th
+September 11th
+April 16th
+October 13th
+October 12th
+June 13th
+July 10th
+September 24th
+May 27th
+March 17th
+May 15th
+August 13th
+August 25th
+April 6th
+February 21st
+January 12th
+December 5th
+September 27th
+September 18th
+November 18th
+December 25th
+December 10th
+November 17th
+February 20th
+
+January 27th appears once.
+February 6th appears once.
+September 11th appears once.
+April 16th appears once.
+October 13th appears once.
+October 12th appears once.
+June 13th appears once.
+July 10th appears once.
+September 24th appears once.
+May 27th appears once.
+March 17th appears once.
+May 15th appears once.
+August 13th appears once.
+August 25th appears once.
+April 6th appears once.
+February 21st appears once.
+January 12th appears once.
+December 5th appears once.
+September 27th appears once.
+September 18th appears once.
+November 18th appears once.
+December 25th appears once.
+December 10th appears once.
+November 17th appears once.
+February 20th appears once.
+
+The CONCLUSION for this particular random birthday generation for 25 people is: 
+EXPECTED: This had an above 50% chance of occurring, it follows the paradox
+
+The results for 30 people are: 
+April 7th
+August 14th
+May 15th
+April 12th
+November 15th
+June 13th
+November 27th
+February 5th
+May 26th
+August 8th
+December 1st
+August 29th
+June 2nd
+March 31st
+January 28th
+December 17th
+June 19th
+October 19th
+November 16th
+February 27th
+August 18th
+August 11th
+August 5th
+August 15th
+October 25th
+April 16th
+October 20th
+March 2nd
+April 12th
+June 19th
+
+April 7th appears once.
+August 14th appears once.
+May 15th appears once.
+April 12th appears 2 times.
+November 15th appears once.
+June 13th appears once.
+November 27th appears once.
+February 5th appears once.
+May 26th appears once.
+August 8th appears once.
+December 1st appears once.
+August 29th appears once.
+June 2nd appears once.
+March 31st appears once.
+January 28th appears once.
+December 17th appears once.
+June 19th appears 2 times.
+October 19th appears once.
+November 16th appears once.
+February 27th appears once.
+August 18th appears once.
+August 11th appears once.
+August 5th appears once.
+August 15th appears once.
+October 25th appears once.
+April 16th appears once.
+October 20th appears once.
+March 2nd appears once.
+
+The CONCLUSION for this particular random birthday generation for 30 people is: 
+EXPECTED: This had an above 50% chance of occurring, it follows the paradox
+
+The results for 35 people are: 
+September 6th
+February 6th
+June 28th
+May 5th
+February 8th
+December 30th
+September 1st
+August 7th
+February 22nd
+June 14th
+October 7th
+July 25th
+March 23rd
+October 19th
+April 12th
+June 8th
+October 28th
+October 9th
+July 29th
+August 11th
+August 2nd
+January 10th
+April 19th
+September 9th
+October 9th
+December 28th
+March 22nd
+February 3rd
+March 9th
+September 9th
+December 10th
+June 20th
+July 18th
+November 24th
+November 2nd
+
+September 6th appears once.
+February 6th appears once.
+June 28th appears once.
+May 5th appears once.
+February 8th appears once.
+December 30th appears once.
+September 1st appears once.
+August 7th appears once.
+February 22nd appears once.
+June 14th appears once.
+October 7th appears once.
+July 25th appears once.
+March 23rd appears once.
+October 19th appears once.
+April 12th appears once.
+June 8th appears once.
+October 28th appears once.
+October 9th appears 2 times.
+July 29th appears once.
+August 11th appears once.
+August 2nd appears once.
+January 10th appears once.
+April 19th appears once.
+September 9th appears 2 times.
+December 28th appears once.
+March 22nd appears once.
+February 3rd appears once.
+March 9th appears once.
+December 10th appears once.
+June 20th appears once.
+July 18th appears once.
+November 24th appears once.
+November 2nd appears once.
+
+The CONCLUSION for this particular random birthday generation for 35 people is: 
+EXPECTED: This had an above 50% chance of occurring, it follows the paradox
+
+The results for 40 people are: 
+May 19th
+June 17th
+July 2nd
+January 14th
+December 30th
+January 23rd
+November 16th
+November 6th
+May 14th
+July 7th
+July 2nd
+February 20th
+December 19th
+July 20th
+December 16th
+December 4th
+August 26th
+January 28th
+December 17th
+August 9th
+November 24th
+July 22nd
+December 13th
+June 29th
+July 28th
+April 3rd
+February 26th
+July 3rd
+May 15th
+June 29th
+February 8th
+April 6th
+April 14th
+March 31st
+June 27th
+May 30th
+May 30th
+January 17th
+February 9th
+December 24th
+
+May 19th appears once.
+June 17th appears once.
+July 2nd appears 2 times.
+January 14th appears once.
+December 30th appears once.
+January 23rd appears once.
+November 16th appears once.
+November 6th appears once.
+May 14th appears once.
+July 7th appears once.
+February 20th appears once.
+December 19th appears once.
+July 20th appears once.
+December 16th appears once.
+December 4th appears once.
+August 26th appears once.
+January 28th appears once.
+December 17th appears once.
+August 9th appears once.
+November 24th appears once.
+July 22nd appears once.
+December 13th appears once.
+June 29th appears 2 times.
+July 28th appears once.
+April 3rd appears once.
+February 26th appears once.
+July 3rd appears once.
+May 15th appears once.
+February 8th appears once.
+April 6th appears once.
+April 14th appears once.
+March 31st appears once.
+June 27th appears once.
+May 30th appears 2 times.
+January 17th appears once.
+February 9th appears once.
+December 24th appears once.
+
+The CONCLUSION for this particular random birthday generation for 40 people is: 
+EXPECTED: This had an above 50% chance of occurring, it follows the paradox
+
+The results for 45 people are: 
+July 29th
+July 8th
+January 14th
+June 2nd
+December 15th
+December 18th
+March 24th
+February 16th
+April 14th
+October 16th
+April 3rd
+June 4th
+June 22nd
+November 6th
+April 25th
+November 28th
+February 24th
+August 11th
+November 27th
+October 10th
+December 20th
+March 11th
+December 30th
+March 24th
+January 19th
+July 14th
+January 8th
+October 22nd
+May 30th
+October 18th
+March 9th
+September 16th
+November 13th
+November 10th
+February 11th
+August 31st
+September 14th
+April 6th
+October 3rd
+August 25th
+December 8th
+November 7th
+October 17th
+February 16th
+July 17th
+
+July 29th appears once.
+July 8th appears once.
+January 14th appears once.
+June 2nd appears once.
+December 15th appears once.
+December 18th appears once.
+March 24th appears 2 times.
+February 16th appears 2 times.
+April 14th appears once.
+October 16th appears once.
+April 3rd appears once.
+June 4th appears once.
+June 22nd appears once.
+November 6th appears once.
+April 25th appears once.
+November 28th appears once.
+February 24th appears once.
+August 11th appears once.
+November 27th appears once.
+October 10th appears once.
+December 20th appears once.
+March 11th appears once.
+December 30th appears once.
+January 19th appears once.
+July 14th appears once.
+January 8th appears once.
+October 22nd appears once.
+May 30th appears once.
+October 18th appears once.
+March 9th appears once.
+September 16th appears once.
+November 13th appears once.
+November 10th appears once.
+February 11th appears once.
+August 31st appears once.
+September 14th appears once.
+April 6th appears once.
+October 3rd appears once.
+August 25th appears once.
+December 8th appears once.
+November 7th appears once.
+October 17th appears once.
+July 17th appears once.
+
+The CONCLUSION for this particular random birthday generation for 45 people is: 
+EXPECTED: This had an above 50% chance of occurring, it follows the paradox
+
+The results for 50 people are: 
+January 20th
+October 29th
+November 15th
+October 30th
+May 16th
+August 26th
+June 1st
+June 10th
+August 10th
+February 4th
+February 16th
+August 23rd
+August 15th
+December 28th
+November 11th
+July 8th
+May 15th
+March 9th
+November 3rd
+April 1st
+December 7th
+August 22nd
+May 13th
+February 8th
+May 10th
+February 4th
+March 18th
+September 25th
+April 26th
+April 3rd
+October 6th
+March 18th
+February 24th
+April 25th
+December 4th
+April 27th
+January 7th
+July 21st
+April 16th
+March 1st
+January 1st
+July 28th
+April 20th
+October 21st
+September 7th
+July 20th
+August 9th
+August 25th
+October 9th
+December 1st
+
+January 20th appears once.
+October 29th appears once.
+November 15th appears once.
+October 30th appears once.
+May 16th appears once.
+August 26th appears once.
+June 1st appears once.
+June 10th appears once.
+August 10th appears once.
+February 4th appears 2 times.
+February 16th appears once.
+August 23rd appears once.
+August 15th appears once.
+December 28th appears once.
+November 11th appears once.
+July 8th appears once.
+May 15th appears once.
+March 9th appears once.
+November 3rd appears once.
+April 1st appears once.
+December 7th appears once.
+August 22nd appears once.
+May 13th appears once.
+February 8th appears once.
+May 10th appears once.
+March 18th appears 2 times.
+September 25th appears once.
+April 26th appears once.
+April 3rd appears once.
+October 6th appears once.
+February 24th appears once.
+April 25th appears once.
+December 4th appears once.
+April 27th appears once.
+January 7th appears once.
+July 21st appears once.
+April 16th appears once.
+March 1st appears once.
+January 1st appears once.
+July 28th appears once.
+April 20th appears once.
+October 21st appears once.
+September 7th appears once.
+July 20th appears once.
+August 9th appears once.
+August 25th appears once.
+October 9th appears once.
+December 1st appears once.
+
+The CONCLUSION for this particular random birthday generation for 50 people is: 
+EXPECTED: This had an above 50% chance of occurring, it follows the paradox
+
+The results for 55 people are: 
+March 24th
+July 16th
+September 21st
+July 21st
+July 14th
+October 8th
+July 28th
+July 8th
+April 30th
+June 30th
+July 29th
+May 29th
+November 17th
+November 29th
+December 3rd
+July 15th
+November 4th
+April 26th
+February 2nd
+August 19th
+July 31st
+January 28th
+September 11th
+April 22nd
+July 13th
+April 8th
+December 5th
+March 4th
+May 21st
+October 28th
+February 2nd
+February 20th
+January 7th
+June 14th
+October 7th
+February 19th
+May 30th
+May 2nd
+August 4th
+April 7th
+February 11th
+December 1st
+July 19th
+February 1st
+January 26th
+October 13th
+July 30th
+August 14th
+March 28th
+August 16th
+December 4th
+March 7th
+September 28th
+September 12th
+December 13th
+
+March 24th appears once.
+July 16th appears once.
+September 21st appears once.
+July 21st appears once.
+July 14th appears once.
+October 8th appears once.
+July 28th appears once.
+July 8th appears once.
+April 30th appears once.
+June 30th appears once.
+July 29th appears once.
+May 29th appears once.
+November 17th appears once.
+November 29th appears once.
+December 3rd appears once.
+July 15th appears once.
+November 4th appears once.
+April 26th appears once.
+February 2nd appears 2 times.
+August 19th appears once.
+July 31st appears once.
+January 28th appears once.
+September 11th appears once.
+April 22nd appears once.
+July 13th appears once.
+April 8th appears once.
+December 5th appears once.
+March 4th appears once.
+May 21st appears once.
+October 28th appears once.
+February 20th appears once.
+January 7th appears once.
+June 14th appears once.
+October 7th appears once.
+February 19th appears once.
+May 30th appears once.
+May 2nd appears once.
+August 4th appears once.
+April 7th appears once.
+February 11th appears once.
+December 1st appears once.
+July 19th appears once.
+February 1st appears once.
+January 26th appears once.
+October 13th appears once.
+July 30th appears once.
+August 14th appears once.
+March 28th appears once.
+August 16th appears once.
+December 4th appears once.
+March 7th appears once.
+September 28th appears once.
+September 12th appears once.
+December 13th appears once.
+
+The CONCLUSION for this particular random birthday generation for 55 people is: 
+EXPECTED: This had an above 50% chance of occurring, it follows the paradox
+
+The results for 60 people are: 
+July 30th
+September 1st
+December 30th
+June 5th
+April 17th
+July 19th
+November 10th
+May 13th
+May 22nd
+April 7th
+October 23rd
+April 25th
+March 24th
+October 22nd
+December 11th
+January 11th
+February 2nd
+April 6th
+May 30th
+August 6th
+October 9th
+June 18th
+June 14th
+March 12th
+July 22nd
+May 20th
+February 3rd
+November 29th
+June 10th
+February 12th
+July 7th
+February 5th
+January 14th
+April 14th
+July 9th
+November 30th
+November 21st
+June 7th
+April 28th
+September 13th
+November 6th
+May 4th
+June 18th
+November 21st
+April 13th
+June 18th
+December 25th
+May 6th
+May 7th
+March 9th
+November 7th
+November 24th
+September 3rd
+September 24th
+September 17th
+December 10th
+January 11th
+July 18th
+December 19th
+August 9th
+
+July 30th appears once.
+September 1st appears once.
+December 30th appears once.
+June 5th appears once.
+April 17th appears once.
+July 19th appears once.
+November 10th appears once.
+May 13th appears once.
+May 22nd appears once.
+April 7th appears once.
+October 23rd appears once.
+April 25th appears once.
+March 24th appears once.
+October 22nd appears once.
+December 11th appears once.
+January 11th appears 2 times.
+February 2nd appears once.
+April 6th appears once.
+May 30th appears once.
+August 6th appears once.
+October 9th appears once.
+June 18th appears 3 times.
+June 14th appears once.
+March 12th appears once.
+July 22nd appears once.
+May 20th appears once.
+February 3rd appears once.
+November 29th appears once.
+June 10th appears once.
+February 12th appears once.
+July 7th appears once.
+February 5th appears once.
+January 14th appears once.
+April 14th appears once.
+July 9th appears once.
+November 30th appears once.
+November 21st appears 2 times.
+June 7th appears once.
+April 28th appears once.
+September 13th appears once.
+November 6th appears once.
+May 4th appears once.
+April 13th appears once.
+December 25th appears once.
+May 6th appears once.
+May 7th appears once.
+March 9th appears once.
+November 7th appears once.
+November 24th appears once.
+September 3rd appears once.
+September 24th appears once.
+September 17th appears once.
+December 10th appears once.
+July 18th appears once.
+December 19th appears once.
+August 9th appears once.
+
+The CONCLUSION for this particular random birthday generation for 60 people is: 
+EXPECTED: This had an above 50% chance of occurring, it follows the paradox
+
+The results for 65 people are: 
+February 22nd
+November 23rd
+January 27th
+June 6th
+January 6th
+May 12th
+May 12th
+August 6th
+June 25th
+October 29th
+July 11th
+January 24th
+August 1st
+March 30th
+July 13th
+July 23rd
+March 28th
+December 26th
+August 21st
+June 21st
+March 3rd
+September 24th
+June 4th
+January 30th
+March 2nd
+August 17th
+November 15th
+February 21st
+October 21st
+January 31st
+November 7th
+November 19th
+March 3rd
+February 9th
+March 21st
+July 8th
+November 28th
+December 6th
+April 1st
+July 17th
+December 29th
+August 31st
+July 10th
+January 9th
+July 13th
+May 7th
+March 1st
+November 11th
+September 27th
+September 8th
+October 14th
+April 28th
+June 17th
+January 5th
+March 1st
+October 1st
+January 3rd
+January 7th
+December 23rd
+July 16th
+May 18th
+December 19th
+November 4th
+November 8th
+August 23rd
+
+February 22nd appears once.
+November 23rd appears once.
+January 27th appears once.
+June 6th appears once.
+January 6th appears once.
+May 12th appears 2 times.
+August 6th appears once.
+June 25th appears once.
+October 29th appears once.
+July 11th appears once.
+January 24th appears once.
+August 1st appears once.
+March 30th appears once.
+July 13th appears 2 times.
+July 23rd appears once.
+March 28th appears once.
+December 26th appears once.
+August 21st appears once.
+June 21st appears once.
+March 3rd appears 2 times.
+September 24th appears once.
+June 4th appears once.
+January 30th appears once.
+March 2nd appears once.
+August 17th appears once.
+November 15th appears once.
+February 21st appears once.
+October 21st appears once.
+January 31st appears once.
+November 7th appears once.
+November 19th appears once.
+February 9th appears once.
+March 21st appears once.
+July 8th appears once.
+November 28th appears once.
+December 6th appears once.
+April 1st appears once.
+July 17th appears once.
+December 29th appears once.
+August 31st appears once.
+July 10th appears once.
+January 9th appears once.
+May 7th appears once.
+March 1st appears 2 times.
+November 11th appears once.
+September 27th appears once.
+September 8th appears once.
+October 14th appears once.
+April 28th appears once.
+June 17th appears once.
+January 5th appears once.
+October 1st appears once.
+January 3rd appears once.
+January 7th appears once.
+December 23rd appears once.
+July 16th appears once.
+May 18th appears once.
+December 19th appears once.
+November 4th appears once.
+November 8th appears once.
+August 23rd appears once.
+
+The CONCLUSION for this particular random birthday generation for 65 people is: 
+EXPECTED: This had an above 50% chance of occurring, it follows the paradox
+
+The results for 70 people are: 
+October 13th
+August 5th
+January 18th
+February 14th
+November 19th
+June 24th
+August 7th
+March 13th
+May 5th
+October 29th
+October 26th
+January 30th
+October 22nd
+October 21st
+March 22nd
+April 1st
+May 31st
+March 19th
+March 24th
+August 29th
+June 25th
+July 9th
+April 8th
+February 15th
+July 27th
+January 4th
+February 8th
+August 22nd
+October 11th
+February 19th
+February 12th
+March 10th
+February 2nd
+January 9th
+February 24th
+June 2nd
+January 28th
+February 15th
+November 8th
+January 23rd
+August 14th
+December 25th
+June 10th
+February 21st
+November 8th
+April 14th
+August 31st
+November 18th
+April 20th
+November 12th
+October 20th
+December 5th
+March 19th
+November 4th
+August 20th
+February 23rd
+May 23rd
+May 31st
+July 12th
+January 14th
+April 27th
+January 21st
+October 30th
+February 24th
+April 8th
+March 5th
+December 17th
+November 25th
+February 16th
+September 10th
+
+October 13th appears once.
+August 5th appears once.
+January 18th appears once.
+February 14th appears once.
+November 19th appears once.
+June 24th appears once.
+August 7th appears once.
+March 13th appears once.
+May 5th appears once.
+October 29th appears once.
+October 26th appears once.
+January 30th appears once.
+October 22nd appears once.
+October 21st appears once.
+March 22nd appears once.
+April 1st appears once.
+May 31st appears 2 times.
+March 19th appears 2 times.
+March 24th appears once.
+August 29th appears once.
+June 25th appears once.
+July 9th appears once.
+April 8th appears 2 times.
+February 15th appears 2 times.
+July 27th appears once.
+January 4th appears once.
+February 8th appears once.
+August 22nd appears once.
+October 11th appears once.
+February 19th appears once.
+February 12th appears once.
+March 10th appears once.
+February 2nd appears once.
+January 9th appears once.
+February 24th appears 2 times.
+June 2nd appears once.
+January 28th appears once.
+November 8th appears 2 times.
+January 23rd appears once.
+August 14th appears once.
+December 25th appears once.
+June 10th appears once.
+February 21st appears once.
+April 14th appears once.
+August 31st appears once.
+November 18th appears once.
+April 20th appears once.
+November 12th appears once.
+October 20th appears once.
+December 5th appears once.
+November 4th appears once.
+August 20th appears once.
+February 23rd appears once.
+May 23rd appears once.
+July 12th appears once.
+January 14th appears once.
+April 27th appears once.
+January 21st appears once.
+October 30th appears once.
+March 5th appears once.
+December 17th appears once.
+November 25th appears once.
+February 16th appears once.
+September 10th appears once.
+
+The CONCLUSION for this particular random birthday generation for 70 people is: 
+EXPECTED: This had an above 50% chance of occurring, it follows the paradox
+
+The results for 75 people are: 
+March 5th
+June 22nd
+July 20th
+September 29th
+April 17th
+February 11th
+October 3rd
+November 19th
+December 7th
+August 30th
+January 6th
+April 30th
+April 9th
+September 16th
+July 24th
+April 14th
+August 27th
+July 31st
+July 8th
+July 17th
+March 16th
+June 24th
+June 3rd
+August 20th
+November 9th
+October 17th
+February 20th
+May 16th
+July 10th
+March 23rd
+November 18th
+August 24th
+May 17th
+October 10th
+May 26th
+October 30th
+October 7th
+April 18th
+September 9th
+June 26th
+February 5th
+April 5th
+October 15th
+September 20th
+August 4th
+May 4th
+January 19th
+September 4th
+March 1st
+November 15th
+April 9th
+July 5th
+September 12th
+January 2nd
+January 7th
+September 21st
+September 1st
+July 10th
+December 29th
+October 8th
+February 3rd
+December 22nd
+May 15th
+October 5th
+October 29th
+February 20th
+October 5th
+August 19th
+October 6th
+July 20th
+January 31st
+June 18th
+July 11th
+August 25th
+September 9th
+
+March 5th appears once.
+June 22nd appears once.
+July 20th appears 2 times.
+September 29th appears once.
+April 17th appears once.
+February 11th appears once.
+October 3rd appears once.
+November 19th appears once.
+December 7th appears once.
+August 30th appears once.
+January 6th appears once.
+April 30th appears once.
+April 9th appears 2 times.
+September 16th appears once.
+July 24th appears once.
+April 14th appears once.
+August 27th appears once.
+July 31st appears once.
+July 8th appears once.
+July 17th appears once.
+March 16th appears once.
+June 24th appears once.
+June 3rd appears once.
+August 20th appears once.
+November 9th appears once.
+October 17th appears once.
+February 20th appears 2 times.
+May 16th appears once.
+July 10th appears 2 times.
+March 23rd appears once.
+November 18th appears once.
+August 24th appears once.
+May 17th appears once.
+October 10th appears once.
+May 26th appears once.
+October 30th appears once.
+October 7th appears once.
+April 18th appears once.
+September 9th appears 2 times.
+June 26th appears once.
+February 5th appears once.
+April 5th appears once.
+October 15th appears once.
+September 20th appears once.
+August 4th appears once.
+May 4th appears once.
+January 19th appears once.
+September 4th appears once.
+March 1st appears once.
+November 15th appears once.
+July 5th appears once.
+September 12th appears once.
+January 2nd appears once.
+January 7th appears once.
+September 21st appears once.
+September 1st appears once.
+December 29th appears once.
+October 8th appears once.
+February 3rd appears once.
+December 22nd appears once.
+May 15th appears once.
+October 5th appears 2 times.
+October 29th appears once.
+August 19th appears once.
+October 6th appears once.
+January 31st appears once.
+June 18th appears once.
+July 11th appears once.
+August 25th appears once.
+
+The CONCLUSION for this particular random birthday generation for 75 people is: 
+EXPECTED: This had an above 50% chance of occurring, it follows the paradox
+
+The results for 80 people are: 
+December 24th
+December 12th
+January 30th
+September 13th
+January 21st
+September 20th
+May 21st
+January 15th
+August 10th
+May 30th
+March 12th
+February 17th
+May 4th
+September 29th
+February 17th
+April 12th
+June 4th
+April 13th
+May 5th
+June 14th
+July 23rd
+November 25th
+February 22nd
+March 31st
+September 30th
+October 18th
+March 13th
+February 9th
+May 3rd
+July 10th
+August 22nd
+September 21st
+November 18th
+July 20th
+February 6th
+April 20th
+September 13th
+February 28th
+August 25th
+January 2nd
+August 15th
+April 21st
+October 3rd
+September 21st
+May 26th
+February 7th
+April 11th
+March 22nd
+October 27th
+May 26th
+September 30th
+April 23rd
+December 4th
+January 6th
+May 19th
+June 6th
+August 26th
+March 6th
+December 9th
+December 26th
+July 19th
+May 1st
+March 22nd
+August 15th
+May 20th
+October 20th
+January 6th
+November 21st
+December 3rd
+July 14th
+December 6th
+July 31st
+April 2nd
+September 2nd
+November 10th
+November 15th
+November 13th
+September 10th
+October 17th
+October 21st
+
+December 24th appears once.
+December 12th appears once.
+January 30th appears once.
+September 13th appears 2 times.
+January 21st appears once.
+September 20th appears once.
+May 21st appears once.
+January 15th appears once.
+August 10th appears once.
+May 30th appears once.
+March 12th appears once.
+February 17th appears 2 times.
+May 4th appears once.
+September 29th appears once.
+April 12th appears once.
+June 4th appears once.
+April 13th appears once.
+May 5th appears once.
+June 14th appears once.
+July 23rd appears once.
+November 25th appears once.
+February 22nd appears once.
+March 31st appears once.
+September 30th appears 2 times.
+October 18th appears once.
+March 13th appears once.
+February 9th appears once.
+May 3rd appears once.
+July 10th appears once.
+August 22nd appears once.
+September 21st appears 2 times.
+November 18th appears once.
+July 20th appears once.
+February 6th appears once.
+April 20th appears once.
+February 28th appears once.
+August 25th appears once.
+January 2nd appears once.
+August 15th appears 2 times.
+April 21st appears once.
+October 3rd appears once.
+May 26th appears 2 times.
+February 7th appears once.
+April 11th appears once.
+March 22nd appears 2 times.
+October 27th appears once.
+April 23rd appears once.
+December 4th appears once.
+January 6th appears 2 times.
+May 19th appears once.
+June 6th appears once.
+August 26th appears once.
+March 6th appears once.
+December 9th appears once.
+December 26th appears once.
+July 19th appears once.
+May 1st appears once.
+May 20th appears once.
+October 20th appears once.
+November 21st appears once.
+December 3rd appears once.
+July 14th appears once.
+December 6th appears once.
+July 31st appears once.
+April 2nd appears once.
+September 2nd appears once.
+November 10th appears once.
+November 15th appears once.
+November 13th appears once.
+September 10th appears once.
+October 17th appears once.
+October 21st appears once.
+
+The CONCLUSION for this particular random birthday generation for 80 people is: 
+EXPECTED: This had an above 50% chance of occurring, it follows the paradox
+
+The results for 85 people are: 
+December 1st
+May 11th
+July 4th
+February 20th
+April 22nd
+November 10th
+October 5th
+September 2nd
+November 24th
+February 24th
+July 13th
+February 21st
+March 28th
+March 18th
+May 8th
+September 3rd
+August 17th
+October 3rd
+March 30th
+September 24th
+August 6th
+July 26th
+May 13th
+April 25th
+March 3rd
+November 4th
+August 4th
+January 29th
+December 11th
+February 14th
+March 28th
+April 21st
+March 17th
+April 1st
+May 24th
+July 3rd
+January 13th
+October 6th
+February 13th
+September 7th
+June 13th
+May 6th
+September 19th
+May 6th
+October 11th
+December 14th
+April 2nd
+September 19th
+April 30th
+April 25th
+April 21st
+May 7th
+March 25th
+March 5th
+June 9th
+October 19th
+July 26th
+March 12th
+October 30th
+March 10th
+November 19th
+March 4th
+January 8th
+December 22nd
+August 8th
+September 20th
+April 8th
+November 20th
+June 28th
+July 28th
+February 2nd
+December 16th
+July 17th
+November 8th
+July 7th
+August 25th
+August 4th
+February 10th
+December 4th
+April 25th
+December 25th
+January 4th
+May 2nd
+July 28th
+July 29th
+
+December 1st appears once.
+May 11th appears once.
+July 4th appears once.
+February 20th appears once.
+April 22nd appears once.
+November 10th appears once.
+October 5th appears once.
+September 2nd appears once.
+November 24th appears once.
+February 24th appears once.
+July 13th appears once.
+February 21st appears once.
+March 28th appears 2 times.
+March 18th appears once.
+May 8th appears once.
+September 3rd appears once.
+August 17th appears once.
+October 3rd appears once.
+March 30th appears once.
+September 24th appears once.
+August 6th appears once.
+July 26th appears 2 times.
+May 13th appears once.
+April 25th appears 3 times.
+March 3rd appears once.
+November 4th appears once.
+August 4th appears 2 times.
+January 29th appears once.
+December 11th appears once.
+February 14th appears once.
+April 21st appears 2 times.
+March 17th appears once.
+April 1st appears once.
+May 24th appears once.
+July 3rd appears once.
+January 13th appears once.
+October 6th appears once.
+February 13th appears once.
+September 7th appears once.
+June 13th appears once.
+May 6th appears 2 times.
+September 19th appears 2 times.
+October 11th appears once.
+December 14th appears once.
+April 2nd appears once.
+April 30th appears once.
+May 7th appears once.
+March 25th appears once.
+March 5th appears once.
+June 9th appears once.
+October 19th appears once.
+March 12th appears once.
+October 30th appears once.
+March 10th appears once.
+November 19th appears once.
+March 4th appears once.
+January 8th appears once.
+December 22nd appears once.
+August 8th appears once.
+September 20th appears once.
+April 8th appears once.
+November 20th appears once.
+June 28th appears once.
+July 28th appears 2 times.
+February 2nd appears once.
+December 16th appears once.
+July 17th appears once.
+November 8th appears once.
+July 7th appears once.
+August 25th appears once.
+February 10th appears once.
+December 4th appears once.
+December 25th appears once.
+January 4th appears once.
+May 2nd appears once.
+July 29th appears once.
+
+The CONCLUSION for this particular random birthday generation for 85 people is: 
+EXPECTED: This had an above 50% chance of occurring, it follows the paradox
+
+The results for 90 people are: 
+October 8th
+March 6th
+June 17th
+December 15th
+November 6th
+March 13th
+October 6th
+July 16th
+November 6th
+November 25th
+February 7th
+October 7th
+May 7th
+July 15th
+August 14th
+April 21st
+March 1st
+October 28th
+May 29th
+January 31st
+June 16th
+February 8th
+April 9th
+May 25th
+February 4th
+July 7th
+January 7th
+March 9th
+October 13th
+March 7th
+September 5th
+September 14th
+February 14th
+February 23rd
+February 24th
+November 16th
+September 17th
+July 3rd
+December 10th
+December 24th
+May 10th
+October 16th
+December 18th
+May 9th
+June 10th
+April 28th
+June 14th
+March 12th
+October 18th
+September 9th
+February 23rd
+August 9th
+June 27th
+August 24th
+April 22nd
+November 1st
+June 17th
+July 4th
+February 5th
+May 28th
+April 4th
+June 12th
+November 5th
+October 21st
+December 28th
+August 31st
+August 6th
+September 30th
+July 1st
+June 30th
+May 13th
+November 7th
+August 1st
+May 3rd
+May 22nd
+March 30th
+March 16th
+June 29th
+March 20th
+September 18th
+November 1st
+April 9th
+August 6th
+March 15th
+February 8th
+January 10th
+February 3rd
+January 6th
+January 7th
+September 20th
+
+October 8th appears once.
+March 6th appears once.
+June 17th appears 2 times.
+December 15th appears once.
+November 6th appears 2 times.
+March 13th appears once.
+October 6th appears once.
+July 16th appears once.
+November 25th appears once.
+February 7th appears once.
+October 7th appears once.
+May 7th appears once.
+July 15th appears once.
+August 14th appears once.
+April 21st appears once.
+March 1st appears once.
+October 28th appears once.
+May 29th appears once.
+January 31st appears once.
+June 16th appears once.
+February 8th appears 2 times.
+April 9th appears 2 times.
+May 25th appears once.
+February 4th appears once.
+July 7th appears once.
+January 7th appears 2 times.
+March 9th appears once.
+October 13th appears once.
+March 7th appears once.
+September 5th appears once.
+September 14th appears once.
+February 14th appears once.
+February 23rd appears 2 times.
+February 24th appears once.
+November 16th appears once.
+September 17th appears once.
+July 3rd appears once.
+December 10th appears once.
+December 24th appears once.
+May 10th appears once.
+October 16th appears once.
+December 18th appears once.
+May 9th appears once.
+June 10th appears once.
+April 28th appears once.
+June 14th appears once.
+March 12th appears once.
+October 18th appears once.
+September 9th appears once.
+August 9th appears once.
+June 27th appears once.
+August 24th appears once.
+April 22nd appears once.
+November 1st appears 2 times.
+July 4th appears once.
+February 5th appears once.
+May 28th appears once.
+April 4th appears once.
+June 12th appears once.
+November 5th appears once.
+October 21st appears once.
+December 28th appears once.
+August 31st appears once.
+August 6th appears 2 times.
+September 30th appears once.
+July 1st appears once.
+June 30th appears once.
+May 13th appears once.
+November 7th appears once.
+August 1st appears once.
+May 3rd appears once.
+May 22nd appears once.
+March 30th appears once.
+March 16th appears once.
+June 29th appears once.
+March 20th appears once.
+September 18th appears once.
+March 15th appears once.
+January 10th appears once.
+February 3rd appears once.
+January 6th appears once.
+September 20th appears once.
+
+The CONCLUSION for this particular random birthday generation for 90 people is: 
+EXPECTED: This had an above 50% chance of occurring, it follows the paradox
+
+The results for 95 people are: 
+March 13th
+June 4th
+August 28th
+February 21st
+May 15th
+August 17th
+February 13th
+April 15th
+November 12th
+March 22nd
+January 10th
+November 21st
+January 6th
+January 8th
+October 9th
+October 24th
+August 17th
+August 1st
+May 31st
+November 13th
+October 14th
+August 26th
+August 2nd
+December 26th
+November 8th
+May 5th
+July 21st
+April 5th
+March 21st
+August 11th
+November 11th
+August 25th
+October 26th
+November 13th
+October 6th
+June 5th
+March 9th
+June 1st
+July 15th
+July 11th
+November 21st
+July 20th
+November 6th
+April 2nd
+October 14th
+March 3rd
+December 20th
+March 20th
+April 12th
+September 18th
+December 9th
+November 23rd
+March 11th
+June 22nd
+May 30th
+December 2nd
+September 8th
+November 25th
+September 18th
+March 21st
+July 23rd
+December 25th
+July 5th
+February 23rd
+February 21st
+March 23rd
+May 4th
+August 11th
+April 4th
+January 21st
+July 4th
+March 31st
+August 1st
+May 30th
+May 7th
+May 25th
+July 6th
+May 8th
+July 21st
+May 14th
+June 1st
+September 17th
+September 1st
+November 9th
+November 29th
+May 9th
+July 2nd
+July 6th
+February 2nd
+March 8th
+March 29th
+March 7th
+June 26th
+July 25th
+February 16th
+
+March 13th appears once.
+June 4th appears once.
+August 28th appears once.
+February 21st appears 2 times.
+May 15th appears once.
+August 17th appears 2 times.
+February 13th appears once.
+April 15th appears once.
+November 12th appears once.
+March 22nd appears once.
+January 10th appears once.
+November 21st appears 2 times.
+January 6th appears once.
+January 8th appears once.
+October 9th appears once.
+October 24th appears once.
+August 1st appears 2 times.
+May 31st appears once.
+November 13th appears 2 times.
+October 14th appears 2 times.
+August 26th appears once.
+August 2nd appears once.
+December 26th appears once.
+November 8th appears once.
+May 5th appears once.
+July 21st appears 2 times.
+April 5th appears once.
+March 21st appears 2 times.
+August 11th appears 2 times.
+November 11th appears once.
+August 25th appears once.
+October 26th appears once.
+October 6th appears once.
+June 5th appears once.
+March 9th appears once.
+June 1st appears 2 times.
+July 15th appears once.
+July 11th appears once.
+July 20th appears once.
+November 6th appears once.
+April 2nd appears once.
+March 3rd appears once.
+December 20th appears once.
+March 20th appears once.
+April 12th appears once.
+September 18th appears 2 times.
+December 9th appears once.
+November 23rd appears once.
+March 11th appears once.
+June 22nd appears once.
+May 30th appears 2 times.
+December 2nd appears once.
+September 8th appears once.
+November 25th appears once.
+July 23rd appears once.
+December 25th appears once.
+July 5th appears once.
+February 23rd appears once.
+March 23rd appears once.
+May 4th appears once.
+April 4th appears once.
+January 21st appears once.
+July 4th appears once.
+March 31st appears once.
+May 7th appears once.
+May 25th appears once.
+July 6th appears 2 times.
+May 8th appears once.
+May 14th appears once.
+September 17th appears once.
+September 1st appears once.
+November 9th appears once.
+November 29th appears once.
+May 9th appears once.
+July 2nd appears once.
+February 2nd appears once.
+March 8th appears once.
+March 29th appears once.
+March 7th appears once.
+June 26th appears once.
+July 25th appears once.
+February 16th appears once.
+
+The CONCLUSION for this particular random birthday generation for 95 people is: 
+EXPECTED: This had an above 50% chance of occurring, it follows the paradox
+
+The results for 100 people are: 
+June 8th
+February 13th
+March 26th
+December 26th
+July 11th
+February 9th
+August 28th
+June 23rd
+September 4th
+November 28th
+February 14th
+September 22nd
+June 5th
+December 11th
+February 11th
+November 24th
+July 15th
+October 3rd
+November 15th
+November 5th
+November 22nd
+January 15th
+October 12th
+April 15th
+December 9th
+February 21st
+September 14th
+June 19th
+September 8th
+August 24th
+September 12th
+May 29th
+July 31st
+February 1st
+June 15th
+May 6th
+September 21st
+February 20th
+October 14th
+August 24th
+June 19th
+June 18th
+July 8th
+September 8th
+July 31st
+December 10th
+June 27th
+July 20th
+March 8th
+June 8th
+January 22nd
+November 26th
+September 20th
+September 8th
+March 17th
+December 25th
+February 28th
+August 10th
+July 7th
+August 12th
+March 18th
+February 23rd
+June 11th
+February 26th
+October 9th
+March 14th
+December 7th
+April 10th
+November 6th
+April 23rd
+August 26th
+December 7th
+October 31st
+February 13th
+April 7th
+May 24th
+April 10th
+January 8th
+October 6th
+August 28th
+April 2nd
+March 30th
+June 18th
+June 18th
+March 6th
+October 15th
+December 16th
+April 14th
+December 18th
+March 16th
+September 15th
+July 9th
+October 8th
+September 11th
+August 27th
+April 12th
+November 21st
+December 8th
+February 22nd
+January 22nd
+
+June 8th appears 2 times.
+February 13th appears 2 times.
+March 26th appears once.
+December 26th appears once.
+July 11th appears once.
+February 9th appears once.
+August 28th appears 2 times.
+June 23rd appears once.
+September 4th appears once.
+November 28th appears once.
+February 14th appears once.
+September 22nd appears once.
+June 5th appears once.
+December 11th appears once.
+February 11th appears once.
+November 24th appears once.
+July 15th appears once.
+October 3rd appears once.
+November 15th appears once.
+November 5th appears once.
+November 22nd appears once.
+January 15th appears once.
+October 12th appears once.
+April 15th appears once.
+December 9th appears once.
+February 21st appears once.
+September 14th appears once.
+June 19th appears 2 times.
+September 8th appears 3 times.
+August 24th appears 2 times.
+September 12th appears once.
+May 29th appears once.
+July 31st appears 2 times.
+February 1st appears once.
+June 15th appears once.
+May 6th appears once.
+September 21st appears once.
+February 20th appears once.
+October 14th appears once.
+June 18th appears 3 times.
+July 8th appears once.
+December 10th appears once.
+June 27th appears once.
+July 20th appears once.
+March 8th appears once.
+January 22nd appears 2 times.
+November 26th appears once.
+September 20th appears once.
+March 17th appears once.
+December 25th appears once.
+February 28th appears once.
+August 10th appears once.
+July 7th appears once.
+August 12th appears once.
+March 18th appears once.
+February 23rd appears once.
+June 11th appears once.
+February 26th appears once.
+October 9th appears once.
+March 14th appears once.
+December 7th appears 2 times.
+April 10th appears 2 times.
+November 6th appears once.
+April 23rd appears once.
+August 26th appears once.
+October 31st appears once.
+April 7th appears once.
+May 24th appears once.
+January 8th appears once.
+October 6th appears once.
+April 2nd appears once.
+March 30th appears once.
+March 6th appears once.
+October 15th appears once.
+December 16th appears once.
+April 14th appears once.
+December 18th appears once.
+March 16th appears once.
+September 15th appears once.
+July 9th appears once.
+October 8th appears once.
+September 11th appears once.
+August 27th appears once.
+April 12th appears once.
+November 21st appears once.
+December 8th appears once.
+February 22nd appears once.
+
+The CONCLUSION for this particular random birthday generation for 100 people is: 
+EXPECTED: This had an above 50% chance of occurring, it follows the paradox
+
+

@@ -1,0 +1,4 @@
+I wanted to know if this primitive text editor could create a file that does not
+exist yet from stuff typed without a file name. I think it should work cos
+the file methods i used to write the code can create files that do not exist yet
+. Here goes!!
